@@ -90,4 +90,6 @@ $rules = array
 86=>array(id=>285,rule=>"No good deed ever goes unpunished."),
 87=>array(id=>286,rule=>"[Quark's rule] When Morn leaves, it's all over.") 
 );
-print_r($rules);
+header('Content-Type: application/json');
+echo json_encode($rules);
+
