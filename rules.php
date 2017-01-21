@@ -1,4 +1,6 @@
 <?php
+print_r("I am the rules");
+
 $rules = array
 (
 0=>array(id=>0,rule=>"[No Number rule] Exploitation begins at home."), 
