@@ -1,6 +1,4 @@
 <?php
-print_r("I am the rules");
-
 $rules = array
 (
 0=>array(id=>0,rule=>"[No Number rule] Exploitation begins at home."), 
@@ -92,3 +90,4 @@ $rules = array
 86=>array(id=>285,rule=>"No good deed ever goes unpunished."),
 87=>array(id=>286,rule=>"[Quark's rule] When Morn leaves, it's all over.") 
 );
+print_r($rules);
