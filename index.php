@@ -14,6 +14,10 @@
             <h3>https://rules-thimin.c9users.io/rules/random</h3>
             <p1>Returns a random rule.</p1>
             <p>needed Symantic struture and css for lay out and looks</p>
+            <?php
+            var_dump(getcwd());
+            ?>
         </body>
     </head>
 </html>
+

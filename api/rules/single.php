@@ -1,5 +1,5 @@
 <?PHP
-include_once('/home/ubuntu/workspace/rules.php');
+include_once(getcwd() . '/rules.php');
 $id = $_GET['id'];
 
 function search($array, $key, $value)
