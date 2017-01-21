@@ -2,6 +2,6 @@ AddDefaultCharset UTF-8
 RewriteEngine on
 RewriteBase /
 RewriteRule ^rules/([0-9]+)/?$ /api/rules/single.php?id=$1 [L]
-RewriteRule ^rules/([0-9]+)/([0-9]+)/?$ /api/rules/range.php?id=$1 [L]
+RewriteRule ^rules/range/?$ /api/rules/range.php [L]
 RewriteRule ^rules/?$ /api/rules/all.php [L]
 RewriteRule ^rules/random/?$ /api/rules/random.php [L]

@@ -13,10 +13,8 @@
             <p1>Returns rule number from the passed number</p1>
             <h3>https://rules-thimin.c9users.io/rules/random</h3>
             <p1>Returns a random rule.</p1>
-            <p>needed Symantic struture and css for lay out and looks</p>
-            <?php
-            var_dump(getcwd())
-            ?>
+            <h3>https://rules-thimin.c9users.io/rules/range?start=0&end=286</h3>
+            <p1>Returns a range of rules set start= and end=  .</p1>
         </body>
     </head>
 </html>

@@ -1,9 +1,8 @@
 <?PHP
-include_once('/home/ubuntu/workspace/rules.php');
+include_once(getcwd() . '/rules.php');
 $randomnumber = rand(0,87);
 $data = $rules[$randomnumber];
-header('Content-Type: application/json');
-echo json_encode($data);
+print json_encode($data);
 
 
 
