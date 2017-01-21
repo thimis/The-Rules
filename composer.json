@@ -1,0 +1,10 @@
+{
+    "name": "thimis/rules",
+    "authors": [
+        {
+            "name": "Joe Jack",
+            "email": "thimis88@gmail.com"
+        }
+    ],
+    "require": {}
+}
