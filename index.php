@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>
-            Hello world
+            The Rules of Acquisition
         </title>
         <body>
             <h1>Base Url https://rules-thimin.c9users.io/</h1>
@@ -17,13 +17,3 @@
         </body>
     </head>
 </html>
-
-
-
-
-
-
-
-
-
-?> 
