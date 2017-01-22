@@ -4,7 +4,7 @@
         <title>
             The Rules of Acquisition
         </title>
-        <body>
+        <body style="background-color:powderblue;">
             <h1>Base Url https://rules-thimin.c9users.io/</h1>
             <h3>End Points:</h3>
             <h3>https://rules-thimin.c9users.io/rules/</h3>
